@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+
 const RESOURCES = {"assets/AssetManifest.bin": "7e6f46f240754c3ef1f9d6defbd93308",
 "assets/AssetManifest.bin.json": "0fcb31c6ca045e5ebcc6f874ce69fcf8",
 "assets/AssetManifest.json": "9cd2cbe71454a73b7ca689a70d8e4f27",
